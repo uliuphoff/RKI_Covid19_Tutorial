@@ -19,6 +19,7 @@ Die Daten sind die „Fallzahlen in Deutschland“ des Robert Koch-Institut (RKI
 der Open Data Datenlizenz Deutschland – Namensnennung – Version 2.0 zur Verfügung. 
 Siehe dazu https://www.govdata.de/dl-de/by-2-0 , Quellenvermerk: Robert Koch-Institut (RKI), dl-de/by-2-0
 
-Kartendarstellung im 4. Tutorial vom open Streetmam Projekt, also ==> © OpenStreetMap-Mitwirkende .
+Kartendarstellung im 4. Tutorial vom Open Streetmap Projekt, also ==> © OpenStreetMap-Mitwirkende .
 Diese Daten sind unter der Open-Database-Lizenz verfügbar, siehe www.openstreetmap.org/copyright .
+
 Verwendung von Leaflet Kartendarsteelung siehe FAQ zu Copyright unter https://github.com/Leaflet/Leaflet
