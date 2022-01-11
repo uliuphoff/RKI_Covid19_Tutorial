@@ -4,9 +4,13 @@ Documented source for RKI Covid Tutorials
 Tutorials are in German language, so the description also in German:
 
 Tutorial 1: Covid Daten von RKI herunterladen und ansehen
-Tutorial 2: Dataframes und kleine datenauswertungen
+
+Tutorial 2: Dataframes und kleine Datenauswertungen
+
 Tutorial 3: Geopandas und Inzidenzen als Karte darstellen
+
 Tutorial 4: Dynamische Karten und Farboverlays
+
 
 Quellenvermerke und Copyright Hinweise:
 
