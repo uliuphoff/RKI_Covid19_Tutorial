@@ -14,6 +14,8 @@ Tutorial 4: Dynamische Karten und Farboverlays
 
 Quellenvermerke und Copyright Hinweise:
 
+Python folium Module: https://github.com/python-visualization/folium
+
 Datenmaterial ist vom Bundesamt für Kartographie und Geodäsie und Robert Koch-Institut
 Die Daten sind die „Fallzahlen in Deutschland“ des Robert Koch-Institut (RKI) und stehen unter 
 der Open Data Datenlizenz Deutschland – Namensnennung – Version 2.0 zur Verfügung. 
